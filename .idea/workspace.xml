@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ce42257-c285-480d-bc93-ba364b15734d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examen2doparc/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/examen2doparc/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +74,7 @@
       <workItem from="1638593768466" duration="102000" />
       <workItem from="1638678500778" duration="282000" />
       <workItem from="1638765884897" duration="2499000" />
-      <workItem from="1638769969129" duration="10303000" />
+      <workItem from="1638769969129" duration="12142000" />
     </task>
     <servers />
   </component>
