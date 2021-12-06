@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+.page-header {
+    background-color: #1cc9ad;
+    margin-top: 0;
+    padding: 5px
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #1a0a0a;
+    font-size: 36pt;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.content {
+    float: right;
+    font-size: 20pt;
+    margin-left: 100px;
+}
+
+h1, h2, h3, h4,label,input {
+    font-family: Helvetica;
+    font-size: 20pt;
+    float: bottom;
+    border-radius: 20px;
+
+}
+
+.date, p {
+    color: black;
+}
+
+.save {
+    float: left;
+}
+
+.post-form textarea, .post-form input {
+    margin-left: 100px;
+    width: 80%;
+    border-radius: 20px;
+}
+
+.top-menu, .top-menu:hover, .top-menu:visited {
+    color: #de1a1a;
+    float: right;
+    font-size: 26pt;
+    margin-right: 70px;
+    border-radius: 20px;
+}
+
+.post {
+    size: 30px;
+    margin-left: 70px;
+    background: #afaf34;
+    border-radius: 10px;
+
+
+}
+
+.post h2 a, .post h2 a:visited {
+    color: #000000;
+}
+
+body {
+  margin:0;
+  padding:0;
+  background: #d209ca;
+}
+
+
+input{
+ margin: 15px;
+}
