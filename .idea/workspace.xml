@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3ce42257-c285-480d-bc93-ba364b15734d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runtime.txt" beforeDir="false" afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examen2doparc/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/examen2doparc/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +72,7 @@
       <workItem from="1638593768466" duration="102000" />
       <workItem from="1638678500778" duration="282000" />
       <workItem from="1638765884897" duration="2499000" />
-      <workItem from="1638769969129" duration="3746000" />
+      <workItem from="1638769969129" duration="6804000" />
     </task>
     <servers />
   </component>
