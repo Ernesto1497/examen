@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ce42257-c285-480d-bc93-ba364b15734d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examen2doparc/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/examen2doparc/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="3ce42257-c285-480d-bc93-ba364b15734d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="examen2doparc" type="Python.DjangoServer" factoryName="Django server">
@@ -72,7 +69,7 @@
       <workItem from="1638593768466" duration="102000" />
       <workItem from="1638678500778" duration="282000" />
       <workItem from="1638765884897" duration="2499000" />
-      <workItem from="1638769969129" duration="1999000" />
+      <workItem from="1638769969129" duration="2322000" />
     </task>
     <servers />
   </component>
